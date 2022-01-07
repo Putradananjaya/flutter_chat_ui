@@ -1,16 +1,7 @@
-# flutter_chat_ui
+# Mobile Application Flutter - Chat
 
-A new Flutter project.
+## Introduction
+The Mobile Application has four pages, the first page is the opening which will display images and general quotes, then the second page will display the page to register and login to the application view. on the third page will display the entire message entered by several users and the last page is the page detail content of messages on one user. The interesting thing about this display is that it displays the normal types of messages, failed messages sent, audio messages and video messages.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Chat App Final UI
+![UI CHAT](https://user-images.githubusercontent.com/38379100/148512339-437afd79-e091-48c3-9e14-46cabfd02958.png)
